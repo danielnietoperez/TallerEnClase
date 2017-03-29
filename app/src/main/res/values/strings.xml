@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Taller2</string>
+    <string name="titulo">Empresa XYZ</string>
+    <string name="cantidad">Cantidad deseada</string>
+    <string name="material">Material</string>
+    <string name="dijes">Tipo de dijes:</string>
+    <string name="matiralDije">Material del dije</string>
+    <string name="pagar">Pagar en:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="dolares">Dolares</string>
+    <string name="pesos">Pesos</string>
+    <string name="oro">Oro</string>
+    <string name="oroRosa">Oro rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string name="Saldo">Saldo a pagar</string>
+    <string name="resultado">Su saldo a pagar es:</string>
+    <string-array name="dijes">
+        <item>@string/oro</item>
+        <item>@string/oroRosa</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+</resources>
